@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**OldManProjekts/OldManProjekts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
 
-Here are some ideas to get you started:
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jadomini@gmail.com?subject=Cheers%20Jason,%20From%20Github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 🔭 I’m currently work at GDIT in Poznan Poland
+- 🌱 I’m currently working on a Masters in Cloud Computing
+- 💬 Ask me about Mountain Unicycling
+- 📫 How to reach me: jason@omprojekts.us
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![AWS, GCP, Azure, React, Python, HTML, AI, Python](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,azure,react,html,ai,py)](https://skillicons.dev)
+
+
+## 🎮 When I'm AFK:
+
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) &nbsp;
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) &nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) &nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+</div>

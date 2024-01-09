@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+[![Cheers, I'm Jason!](assets/header.gif)](https://github.com/OldManProjekts)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/228172059623030785) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jason-dominic-pmp-lssbb/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jadomini@gmail.com?subject=Cheers%20Jason,%20From%20Github)
 
 </div>

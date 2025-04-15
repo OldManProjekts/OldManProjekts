@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently work at GDIT in Poznan Poland
+- 🔭 I’m currently Hunting for new & exciting opportunities
 - 🌱 I’m currently working on a Masters in Cloud Computing
 - 💬 Ask me about Mountain Unicycling
 - 📫 How to reach me: jason@omprojekts.us

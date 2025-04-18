@@ -21,7 +21,7 @@
 
 ## 💻 My Tech Stack:
 
-[![AWS, GCP, Azure, React, Python, HTML, AI, Python](https://skillicons.dev/icons?i=next,fortran,nodejs,ts,aws,gcp,azure,react,html,ai,py)](https://skillicons.dev)
+[![AWS, GCP, Azure, React, Python, HTML, AI, Python](https://skillicons.dev/icons?i=next,fortran,nodejs,lua,ts,aws,gcp,azure,react,html,ai,py)](https://skillicons.dev)
 
 
 ## 🎮 When I'm AFK:
